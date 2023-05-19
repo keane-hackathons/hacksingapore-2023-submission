@@ -11,9 +11,11 @@ export const MAX_SCREEN_HEIGHT =  SCREEN_HEIGHT * 4;
 
 export const CAMERA_FADE_TIME = 256;
 
-const ASSET_URL = "https://raw.githubusercontent.com/keane-hackathons/eventourage-remote-racer/main/src/assets"
-export const IMAGES_PATH = `${ASSET_URL}/images`;
-export const AUDIOS_PATH = `${ASSET_URL}/audios`;
+const IS_LOCAL = false
+const ASSET_URL = "https://raw.githubusercontent.com/keane-hackathons/eventourage-remote-racer/main/public/assets"
+const ASSET_LOCAL = "/assets"
+export const IMAGES_PATH = `${IS_LOCAL ? ASSET_LOCAL : ASSET_URL}/images`;
+export const AUDIOS_PATH = `${IS_LOCAL ? ASSET_LOCAL : ASSET_URL}/audios`;
 
 export const TILE_WIDTH = 32;
 export const TILE_HEIGHT = 32;

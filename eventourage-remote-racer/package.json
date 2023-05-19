@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview --port 5001 --strictPort",
-    "serve": "vite preview --port 5001 --strictPort"
+    "serve": "vite preview --port 5001 --strictPort",
+    "deploy": "vite build && cf push eventourage-remote-racer -b https://github.com/cloudfoundry/staticfile-buildpack.git"
   },
   "dependencies": {
     "phaser": "^3.60.0",
