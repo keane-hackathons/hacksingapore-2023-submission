@@ -12,14 +12,14 @@ export default class MainScene extends Phaser.Scene {
 		const color = "#ffd541";
 		const stroke = "#df3e23";
 		
-		Methods.addText(this, Constants.SCREEN_WIDTH / 2, 128, "Infinite Cars", "40px")
+		Methods.addText(this, Constants.SCREEN_WIDTH / 2, 128, "Heineken F1 Racer", "40px")
 			.setDepth(Constants.SCREEN_HEIGHT)
 			.setOrigin(0.5)
 			.setScrollFactor(0)
 			.setColor(color)
 			.setStroke(stroke, 8);
 		
-		Methods.addText(this, Constants.SCREEN_WIDTH / 2, 176, "Car race game", "24px")
+		Methods.addText(this, Constants.SCREEN_WIDTH / 2, 176, "Upgrade NFT with points earned", "20px")
 			.setDepth(Constants.SCREEN_HEIGHT)
 			.setOrigin(0.5)
 			.setScrollFactor(0)
