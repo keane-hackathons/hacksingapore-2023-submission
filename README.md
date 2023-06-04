@@ -9,6 +9,6 @@ https://github.com/keane-hackathons/hacksingapore-2023-submission/assets/2288100
 
 
 
-
-Figma: https://www.figma.com/file/kmv0qCqXnV2xuToKKrxFrJ/heineken?type=design&node-id=21%3A44&t=1pcWvmzzuMZL0n5W-1  
-Slides: https://docs.google.com/presentation/d/1OYXHqZi30XeXn89nMwA1K0K23OmV30dfgzgrAW5aiXU/edit?usp=sharing
+Or watch it on Youtube: https://www.youtube.com/watch?v=pOVFYoVQVnM  
+View our process on Figma: https://www.figma.com/file/kmv0qCqXnV2xuToKKrxFrJ/heineken?type=design&node-id=21%3A44&t=1pcWvmzzuMZL0n5W-1  
+If you're interested, here's our slides: https://docs.google.com/presentation/d/1OYXHqZi30XeXn89nMwA1K0K23OmV30dfgzgrAW5aiXU/edit?usp=sharing
